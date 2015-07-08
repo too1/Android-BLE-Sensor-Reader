@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_pairing_range_items">
+        <item>-30 dBm</item>
+        <item>-40 dBm</item>
+    </string-array>
+</resources>
